@@ -1,5 +1,5 @@
 let dato1: string =
-  "Como poder ver los repositorios desde CodeSandbox (que no funciona igual que el del profesor";
+  "Como poder ver los repositorios en CodeSandbox (que no funciona igual que el del profesor";
 
 console.log(dato1);
 
