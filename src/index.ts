@@ -1,5 +1,17 @@
+/*Ejercicio de clase
+36
+Crear un archivo nuevo que se denomine ejercicio1.ts e
+imprimir por consola los pasos para:
+a) Cocinar una torta
+b) Dirigirse desde su domicilio hasta el supermercado
+c) Crear un posteo en facebook
+d) O cualquier otro procedimiento que el alumno desee
+(Mínimo 10 instrucciones)*/
+
+
+
 let dato1: string =
-  "Como poder ver los repositorios en CodeSandbox (que no funciona igual que el del profesor";
+  "Como poder ver los repositorios en CodeSandbox;
 
 console.log(dato1);
 
